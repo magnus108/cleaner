@@ -18,7 +18,7 @@ import Data.Strings
 
 import Data.Maybe
 
--- /dagsdato/2019 - 0915 - cis/Grade 9_ CS/ Liv Atlan - SYS_77837/IMG_019748.jpg
+-- /dagsdato/2019 - 0915 - cis/Grade 9_ CS/ Livn - SYS_77837/IMG_019748.jpg
 -- /doneshooting/naerum_skole/cr2/0A/10.SYS_1234111.1.CC.005.cr2
 --
 -- input:
